@@ -1,0 +1,8 @@
+{
+  "name": "Al-Hadi",
+  "app_id": "f6f3b1d1",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
